@@ -3,7 +3,7 @@ applications:
   name: refarch-cogni-conversation-broker
   host: refarch-wcs-broker
   instances: 1
-  domain: mybluemix.net
+  domain: eu-gb.mybluemix.net
   memory: 256M
   disk_quota: 1024M
   services:
